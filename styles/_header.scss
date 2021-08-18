@@ -1,0 +1,15 @@
+.profile{
+    display: grid;
+    font-weight: 600;
+    font-size: $font-size;
+    
+    .profile-img{
+        width: 100%;
+        height: 10px;
+        img{
+            width: 100%;
+            height: 10px;
+        }
+    }
+    
+}
