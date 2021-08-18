@@ -1,0 +1,12 @@
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: $color_gray_2;
+    margin-top: 2.75rem;
+    margin-bottom: 1.5rem;
+    span{
+        font-weight: 500;
+    }
+}

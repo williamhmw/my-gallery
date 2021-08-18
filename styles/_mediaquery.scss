@@ -1,0 +1,12 @@
+@media (min-width: 960px){
+    body{
+    max-width: 960px;
+    }
+    .profile-img{
+        img{
+            max-width: 9.75rem;
+            max-height: 9.75rem;
+            border-radius: 0.75rem;
+        }
+    }
+}
